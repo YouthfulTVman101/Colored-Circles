@@ -22,4 +22,4 @@ Channels with this circle are Public Channels
 <p>The only role with this circle is the Naughty Oofs Role</p>
 The only channels with this circle is the AFK/Muted Channel and the Naughty Oofs Channel
 
-<h5>Stat Channels and Ticket Channels are the only channels that don't get assigned a circle</h5>
+<h6>Stat Channels and Ticket Channels are the only channels that don't get assigned a circle</h6>
