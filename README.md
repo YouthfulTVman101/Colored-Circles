@@ -4,22 +4,22 @@ To go back to the homepage, click <a href="https://youthfultvman101.github.io/Ho
 
 <h2>Red Circle</h2>
 
-Roles with this circle are Staff Roles
+<p>Roles with this circle are Staff Roles</p>
 Channels with this circle are Staff Channels
 
 <h2>Blue Circle</h2>
 
-Roles with this circle are Special Roles
+<p>Roles with this circle are Special Roles</p>
 Channels with this circle are for Non-public Channels
 
 <h2>White Circle</h2>
 
-Roles with this circle are Tier Roles
+<p>Roles with this circle are Tier Roles</p>
 Channels with this circle are Public Channels
 
 <h2>Black Circle</h2>
 
-The only role with this circle is the Naughty Oofs Role
+<p>The only role with this circle is the Naughty Oofs Role</p>
 The only channels with this circle is the AFK/Muted Channel and the Naughty Oofs Channel
 
 <h5>Stat Channels and Ticket Channels are the only channels that don't get assigned a circle</h5>
