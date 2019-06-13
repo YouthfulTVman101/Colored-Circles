@@ -1,4 +1,4 @@
-<h1>Oofs Of Robloxia Colored Cicles</h1>
+<h1>Oofs Of Robloxia Colored Circles</h1>
 <p>This is a list of every colored cicle in Oofs Of Robloxia what they mean!</p>
 To go back to the homepage, click <a href="https://youthfultvman101.github.io/Home/">here</a>
 
