@@ -20,6 +20,6 @@ Channels with this circle are Public Channels
 <h2>Black Circle</h2>
 
 <p>The only role with this circle is the Naughty Oofs Role</p>
-The only channels with this circle is the AFK/Muted Channel and the Naughty Oofs Channel
+The only channels with this circle are AFK/Muted Channel and the Naughty Oofs Channel
 
 <h6>Stat Channels and Ticket Channels are the only channels that don't get assigned a circle</h6>
